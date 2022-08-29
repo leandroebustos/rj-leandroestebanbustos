@@ -1,6 +1,6 @@
 import './App.css'
-import { Navbar } from './components/Navbar';
 import { ItemListContainer } from './components/ItemListContainer';
+import { Navbar } from './components/Navbar';
 
 
 
@@ -10,7 +10,7 @@ const App = () => {
     <div>
       <Navbar/>
 
-  <ItemListContainer hola={'soy Leandro'}/>
+      <ItemListContainer hola={'soy leandro'}/>
     </div>
       );
 } 

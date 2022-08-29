@@ -1,0 +1,52 @@
+.barraNavegacion {
+    background-color: #0769e9;
+    width: 100%;
+   }
+   
+   .Nav{
+       display: flex;
+       justify-content: space-between;
+       max-width: 992px;
+       margin: 0 auto;
+   
+   
+   }
+   .nav-Link{
+       color: white;
+       text-decoration: none;
+   }
+   
+   .titulo-P{
+       font-size: 30px;
+       font-weight: bold;
+       padding: 0 40px;
+       line-height: 50px;
+       
+   }
+   .nav-menu{
+       display: flex;
+       margin-right: 40px;
+       list-style: none;
+   }
+   .nav-menu-item{
+       font-size: 18px;
+       margin: 0 10px;
+       line-height: 80px;
+       width: max-content;
+   }
+   .nav-menu-link{
+       padding: 8px 12px;
+       border-radius: 3px;
+   }
+   .nav-menu-link:hover{
+       background-color: #034574;
+       transition: 0,5s;
+   
+   }
+   .nav-link {
+      
+   height:50px;
+   width:50px ;
+   
+   
+   }

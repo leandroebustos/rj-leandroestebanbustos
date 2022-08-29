@@ -1,4 +1,5 @@
 import { Carrito } from "./CartWidget";
+import './Navbar.css'
 
 export const Navbar = () => {
     return (
